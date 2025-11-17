@@ -46,7 +46,7 @@ Experiments were performed on two multimodal remote sensing benchmarks:
   Heterogeneity arises from differences in spatial and spectral resolution between domains.
 
 ### Experimental Protocol
-For each benchmark, two transfer tasks are defined (Ds &rarr Dt), where:
+For each benchmark, two transfer tasks are defined (Ds -> Dt), where:
 - The source domain (Ds) is fully labeled.
 - The target domain (Dt) contains limited labeled data.
 
