@@ -5,7 +5,7 @@
 
 **Considered setting:** Semi-supervised domain adaptation methods aim to generalize from a labeled source domain to a scarcely labeled target domain, despite potential distribution shifts. This challenge becomes even more complex when the source and target data differ in modality representation, such as when acquired using sensors with varying characteristics. In remote sensing, for example, data may differ in acquisition modes (e.g., optical vs. radar), spectral properties (e.g., RGB vs. multispectral), or spatial resolution. This scenario, known as Semi-Supervised Heterogeneous Domain Adaptation (SSHDA), introduces additional challenges due to the heightened distribution shift caused by modality heterogeneity.
 
-**Proposed approach:** This work introduces SAHARA, a new method for SSHDA, that combines conditional adversarial feature adaptation with dynamic pseudo-labeling to learn domain-invariant features and address cases where the target domain has extremely scarce labeled data.
+**Proposed approach:** This work introduces SAHARA (Semi-supervised Adaptation in Heterogeneous domains via conditional Adversarial Representation disentanglement and Adaptive pseudo-labeling), a new method for SSHDA, that combines conditional adversarial feature adaptation with dynamic pseudo-labeling to learn domain-invariant features and address cases where the target domain has extremely scarce labeled data.
 
 ## Code organization
 
