@@ -28,7 +28,7 @@ Example of running istruction:
 
 <!---->
 
-    python main.py -d EUROSAT-MS-SAR -s MS -n_gpu 0 -ns 5 10 50 -np 1 2 5
+    python main.py -d RESISC45_EURO -s EURO -b CNN -n_gpu 0 -ns 5 10 50 -np 1 4 5 -ds /home/user/Datasets
 
 We maintained a dictionary structure in `param.py` to enable users to easily add additional multimodal datasets for classification tasks.
 
@@ -90,4 +90,3 @@ If you use SAHARA in your research, please use the following BibTeX entry.
 
 
 ```
-# SAHARA
