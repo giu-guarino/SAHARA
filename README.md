@@ -78,15 +78,13 @@ If you use SAHARA in your research, please use the following BibTeX entry.
 
 ```
 @ARTICLE{guarino2025sahara,
-  author={Guarino, G. and Dantas, C. F. and Ienco, D. and Gaetano, R. and Vivone, G. and Ciotola, M. and Scarpa, G.},
+  author={Guarino, Giuseppe and Dantas, Cássio F. and Ienco, Dino and Gaetano, Raffaele and Vivone, Gemine and Ciotola, Matteo and Scarpa, Giuseppe},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={{SAHARA}: Heterogeneous Semi-Supervised Transfer Learning with Adversarial Adaptation and Dynamic Pseudo-Labeling}, 
+  title={SAHARA: Heterogeneous Semi-Supervised Transfer Learning with Adversarial Adaptation and Dynamic Pseudo-Labeling}, 
   year={2025},
-  volume={(Accepted)},
+  volume={},
   number={},
   pages={1-1},
-  doi={}
-}
-
-
+  keywords={Remote sensing;Training;Standards;Spatial resolution;Benchmark testing;Adaptation models;Transfer learning;Radar polarimetry;Optical sensors;Feature extraction;Domain Adaptation;Heterogeneous data;Feature disentanglement;Pseudo-labeling;Consistency regularization;Conditional adversarial learning},
+  doi={10.1109/LGRS.2025.3635269}}
 ```
